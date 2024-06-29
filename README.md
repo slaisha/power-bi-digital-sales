@@ -92,16 +92,20 @@ This dashboard provides comprehensive insights into digital sales performance. H
 - Customize and drill down into specific data points for deeper analysis.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
 <!-- Image Stack with GitHub Links -->
 <div align="center">
 
 <!-- Image with GitHub Link -->
+<b>Customer Journey KPI Overview</b> (1/8) 
+
 <div>
   <a href="https://github.com/slaisha/power-bi-digital-sales/blob/master/images/Saffron-Autos-01.png">
     <img src="images/Saffron-Autos-01.png" style="max-width: 100%; height: auto;">
   </a>
 </div>
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+<b>Digital Sales Dashboard</b>  (2/8) 
 
 <!-- Image with GitHub Link -->
 <div>
@@ -109,6 +113,8 @@ This dashboard provides comprehensive insights into digital sales performance. H
     <img src="images/Saffron-Autos-02.png" style="max-width: 100%; height: auto;">
   </a>
 </div>
+<p align="right">(<a href="#top">back to top</a>)</p>
+<b>Customer Satisfaction Survey Results</b>  (3/8) 
 
 <!-- Image with GitHub Link -->
 <div>
@@ -116,6 +122,8 @@ This dashboard provides comprehensive insights into digital sales performance. H
     <img src="images/Saffron-Autos-03.png" style="max-width: 100%; height: auto;">
   </a>
 </div>
+<p align="right">(<a href="#top">back to top</a>)</p>
+<b>Dealer Feedback Survey Results</b>  (4/8) 
 
 <!-- Image with GitHub Link -->
 <div>
@@ -123,31 +131,41 @@ This dashboard provides comprehensive insights into digital sales performance. H
     <img src="images/Saffron-Autos-04.png" style="max-width: 100%; height: auto;">
   </a>
 </div> 
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 <!-- Image with GitHub Link -->
+<b>App Analytics Overview</b>  (5/8) 
+
 <div>
   <a href="https://github.com/slaisha/power-bi-digital-sales/blob/master/images/Saffron-Autos-05.png">
     <img src="images/Saffron-Autos-05.png" style="max-width: 100%; height: auto;">
   </a>
 </div>
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 <!-- Image with GitHub Link -->
+<b>Analytics for EV Vehicles Webpages</b>  (6/8)
 <div>
   <a href="https://github.com/slaisha/power-bi-digital-sales/blob/master/images/Saffron-Autos-06.png">
     <img src="images/Saffron-Autos-06.png" style="max-width: 100%; height: auto;">
   </a>
 </div>
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- Image with GitHub Link -->
+<b>Analytics for EV Services Webpages</b>  (7/8) 
+
 <div>
   <a href="https://github.com/slaisha/power-bi-digital-sales/blob/master/images/Saffron-Autos-07.png">
     <img src="images/Saffron-Autos-07.png" style="max-width: 100%; height: auto;">
   </a>
 </div>
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- Image with GitHub Link -->
+<b>Analytics for EV Incentives Webpages</b>  (8/8)
 <div>
   <a href="https://github.com/slaisha/power-bi-digital-sales/blob/master/images/Saffron-Autos-08.png">
     <img src="images/Saffron-Autos-08.png" style="max-width: 100%; height: auto;">
@@ -155,6 +173,7 @@ This dashboard provides comprehensive insights into digital sales performance. H
 </div>
 
 </div> <!-- End of Center Alignment -->
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
