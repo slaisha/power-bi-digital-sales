@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="images/digital sales.png" alt="Logo" width="80" height="80">
+    <img src="images/digital sales.jpeg" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Next-Gen Digital Sales Analysis Dashboard</h3>
