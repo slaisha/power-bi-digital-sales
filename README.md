@@ -3,8 +3,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/digital sales.jpeg" alt="Logo" width="80" height="80">
+  <a href="https://github.com/slaisha/power-bi-digital-sales">
+    <img src="images/digital sales.jpg" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Next-Gen Digital Sales Analysis Dashboard</h3>
