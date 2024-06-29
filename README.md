@@ -94,48 +94,67 @@ This dashboard provides comprehensive insights into digital sales performance. H
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-<!-- Grid Layout for Images in 2 Columns -->
+<!-- Image Stack with GitHub Links -->
 <div align="center">
 
-<!-- Grid Container -->
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; justify-items: center; text-align: center; margin: 20px;">
-
-<!-- Image Items -->
+<!-- Image with GitHub Link -->
 <div>
-  <img src="images/Saffron-Autos-01.png" style="max-width: 100%; height: auto;">
+  <a href="https://github.com/slaisha/power-bi-digital-sales/blob/master/images/Saffron-Autos-01.png">
+    <img src="images/Saffron-Autos-01.png" style="max-width: 100%; height: auto;">
+  </a>
 </div>
 
+<!-- Image with GitHub Link -->
 <div>
-  <img src="images/Saffron-Autos-02.png" style="max-width: 100%; height: auto;">
+  <a href="https://github.com/slaisha/power-bi-digital-sales/blob/master/images/Saffron-Autos-02.png">
+    <img src="images/Saffron-Autos-02.png" style="max-width: 100%; height: auto;">
+  </a>
 </div>
 
+<!-- Image with GitHub Link -->
 <div>
-  <img src="images/Saffron-Autos-03.png" style="max-width: 100%; height: auto;">
+  <a href="https://github.com/slaisha/power-bi-digital-sales/blob/master/images/Saffron-Autos-03.png">
+    <img src="images/Saffron-Autos-03.png" style="max-width: 100%; height: auto;">
+  </a>
 </div>
 
+<!-- Image with GitHub Link -->
 <div>
-  <img src="images/Saffron-Autos-04.png" style="max-width: 100%; height: auto;">
+  <a href="https://github.com/slaisha/power-bi-digital-sales/blob/master/images/Saffron-Autos-04.png">
+    <img src="images/Saffron-Autos-04.png" style="max-width: 100%; height: auto;">
+  </a>
 </div>
 
+<!-- Image with GitHub Link -->
 <div>
-  <img src="images/Saffron-Autos-05.png" style="max-width: 100%; height: auto;">
+  <a href="https://github.com/slaisha/power-bi-digital-sales/blob/master/images/Saffron-Autos-05.png">
+    <img src="images/Saffron-Autos-05.png" style="max-width: 100%; height: auto;">
+  </a>
 </div>
 
+<!-- Image with GitHub Link -->
 <div>
-  <img src="images/Saffron-Autos-06.png" style="max-width: 100%; height: auto;">
+  <a href="https://github.com/slaisha/power-bi-digital-sales/blob/master/images/Saffron-Autos-06.png">
+    <img src="images/Saffron-Autos-06.png" style="max-width: 100%; height: auto;">
+  </a>
 </div>
 
+<!-- Image with GitHub Link -->
 <div>
-  <img src="images/Saffron-Autos-07.png" style="max-width: 100%; height: auto;">
+  <a href="https://github.com/slaisha/power-bi-digital-sales/blob/master/images/Saffron-Autos-07.png">
+    <img src="images/Saffron-Autos-07.png" style="max-width: 100%; height: auto;">
+  </a>
 </div>
 
+<!-- Image with GitHub Link -->
 <div>
-  <img src="images/Saffron-Autos-08.png" style="max-width: 100%; height: auto;">
+  <a href="https://github.com/slaisha/power-bi-digital-sales/blob/master/images/Saffron-Autos-08.png">
+    <img src="images/Saffron-Autos-08.png" style="max-width: 100%; height: auto;">
+  </a>
 </div>
-
-</div> <!-- End of Grid Container -->
 
 </div> <!-- End of Center Alignment -->
+
 
 
 
