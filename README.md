@@ -133,6 +133,7 @@ This dashboard provides comprehensive insights into digital sales performance. H
   </a>
 </div>
 
+
 <!-- Image with GitHub Link -->
 <div>
   <a href="https://github.com/slaisha/power-bi-digital-sales/blob/master/images/Saffron-Autos-06.png">
