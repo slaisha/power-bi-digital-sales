@@ -36,7 +36,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
 The Power BI Digital Sales Insights Dashboard is a comprehensive tool designed to provide in-depth analysis and visualization of digital sales performance. This project leverages the powerful capabilities of Power BI to turn raw data into actionable insights, helping organizations optimize their sales strategies and make data-driven decisions.
 
@@ -94,6 +94,50 @@ This dashboard provides comprehensive insights into digital sales performance. H
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
+<!-- Grid Layout for Images in 2 Columns -->
+<div align="center">
+
+<!-- Grid Container -->
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; justify-items: center; text-align: center; margin: 20px;">
+
+<!-- Image Items -->
+<div>
+  <img src="images/Saffron-Autos-01.png" style="max-width: 100%; height: auto;">
+</div>
+
+<div>
+  <img src="images/Saffron-Autos-02.png" style="max-width: 100%; height: auto;">
+</div>
+
+<div>
+  <img src="images/Saffron-Autos-03.png" style="max-width: 100%; height: auto;">
+</div>
+
+<div>
+  <img src="images/Saffron-Autos-04.png" style="max-width: 100%; height: auto;">
+</div>
+
+<div>
+  <img src="images/Saffron-Autos-05.png" style="max-width: 100%; height: auto;">
+</div>
+
+<div>
+  <img src="images/Saffron-Autos-06.png" style="max-width: 100%; height: auto;">
+</div>
+
+<div>
+  <img src="images/Saffron-Autos-07.png" style="max-width: 100%; height: auto;">
+</div>
+
+<div>
+  <img src="images/Saffron-Autos-08.png" style="max-width: 100%; height: auto;">
+</div>
+
+</div> <!-- End of Grid Container -->
+
+</div> <!-- End of Center Alignment -->
+
+
 
 <!-- CONTACT -->
 ## Contact
@@ -120,3 +164,4 @@ Portfolio Link: [https://shainalolin.com](https://shainalolin.com)
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/screenshot.png
+[s1-screenshot]: images/Saffron-Autos-01.png
