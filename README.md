@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/slaisha/power-bi-digital-sales">
-    <img src="images/sales.png" alt="Logo" width="80" height="80">
+    <img src="images/EV Sales Thumbnail.png" alt="Logo" width="450">
   </a>
 
 <h3 align="center">Next-Gen Digital Sales Analysis Dashboard</h3>
